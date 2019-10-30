@@ -11,6 +11,6 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "axios": "^0.18.0"
+    "axios": "^0.18.1"
   }
 }
